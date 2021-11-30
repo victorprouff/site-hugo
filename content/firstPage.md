@@ -1,5 +1,4 @@
 +++
-draft = true
 text1 = "coucou"
 textarea1 = "ceci est un petit test"
 
@@ -19,7 +18,5 @@ En tant que photographe (amateur) une opération que je fais à chaque fin de sh
 Ceci est un exemple
 
 ![](/uploads/coming.jpg)
-
-> fzefezf
 
 coucou les petits oiseaux
