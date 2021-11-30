@@ -11,3 +11,12 @@ fields:
     schema:
       format: markdown
   label: text1
+- name: textarea1
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: textArea1
