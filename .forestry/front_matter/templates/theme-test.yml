@@ -20,3 +20,5 @@ fields:
     schema:
       format: markdown
   label: textArea1
+pages:
+- content/firstPage.md
